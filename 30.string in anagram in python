@@ -1,0 +1,15 @@
+a=int("enter string:")
+b=int("enter string:")
+if sorted(a)==sorted(b):
+print('anagram')
+else:
+print('not anagram')
+a=input("enter a string:")
+b=len(a)
+if(b>3):
+if a[-3:]==ing:
+print(a+'lu')
+else:
+print(a+'ing')
+else:
+print(a)
