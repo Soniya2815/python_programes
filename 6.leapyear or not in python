@@ -1,0 +1,6 @@
+year=int(input("enter the year")):
+if(year%400=0)&&(year%100==0):
+elif(year%4==0)&&(year%100!=0):
+print("leapyear",year)
+else:
+print("not leapyear",year)
