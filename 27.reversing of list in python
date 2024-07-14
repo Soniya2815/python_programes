@@ -1,0 +1,4 @@
+list1=[12,23,45,67,83]
+print(list1)
+reversed_list=list=list_[::=-1}
+print(reversed_list)
