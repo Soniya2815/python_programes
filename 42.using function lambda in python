@@ -1,0 +1,4 @@
+def_myfun(n)"
+   return lambda a:a*n
+x=myfun(4)
+print(x(5))
