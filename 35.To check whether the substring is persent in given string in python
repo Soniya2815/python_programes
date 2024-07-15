@@ -1,0 +1,5 @@
+str="hello world"
+if(("hello" in str):
+print('yes')
+else:
+print('no')
