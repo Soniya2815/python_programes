@@ -1,0 +1,4 @@
+from function import reduce
+li=[2,45,67,78]
+sum=reduce(lambda x,y:x+y,li)
+print(sum)
