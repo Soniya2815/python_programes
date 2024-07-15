@@ -1,0 +1,4 @@
+str="helloo"
+  vowels="aeiouAEIOU"
+  count=sum(str.count(vowels for vowel in vowels)
+print(count)
