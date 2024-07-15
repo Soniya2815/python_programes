@@ -1,0 +1,7 @@
+a='hello'
+print(a)
+print(a[1])
+for x in 'bananna':
+print(x)
+print(len(a))
+a="the best things in print life are free"
