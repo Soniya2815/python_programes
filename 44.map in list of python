@@ -1,0 +1,3 @@
+li=[2,4,5,5]
+list1=lust(map(lambda x:x**2,li))
+print(list1)
