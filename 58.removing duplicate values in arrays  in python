@@ -1,0 +1,5 @@
+for i in range(len(array)):
+    
+    for j in array:
+
+        if array[i] == j:
